@@ -8,6 +8,7 @@
 - [Data Modeling](#data-modeling)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [DAX Calculations and Measures](#dax-calculations-and-measures)
+- [Dashboard](#dashboard)
 - [Key Findings and Insights](#key-findings-and-insights)
 - [Strategic Recommendations](#strategic-recommendations)
 - [Conclusion](#concluson)
