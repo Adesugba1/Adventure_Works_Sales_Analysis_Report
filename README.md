@@ -1,5 +1,17 @@
 # Adventure Sales Analysis
 
+## Table of Content
+- [Overview](#overview)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Preparation and Cleaning](#data-preparation-and-cleaing)
+- [Data Modeling](#data-modeling)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [DAX Calculations and Measures](dax-calculations-and-measures)
+- [Key Findings and Insights](key-findings-and-insights)
+- [Strategic Recommendations](strategic-recommendations)
+- [Conclusion](#concluson)
+
 ## Overview
 This report presents a comprehensive analysis of Adventure Works' sales performance based on the transformed dataset. Key performance indicators (KPIs) analyzed include total revenue, cost of goods sold (COGS), total profit, profit margins, and transactional insights. The analysis spans multiple years, providing insights into revenue trends, profit contributions, and regional performance.
 
