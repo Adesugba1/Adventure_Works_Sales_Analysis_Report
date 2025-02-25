@@ -78,6 +78,9 @@ EDA includes exploring the dataset to answer business questions such as:
   - % Profit Margin = (Profit / Revenue) * 100
 - Additional calculations for Total Revenue, COGS, and Order Quantity were performed using Pivot Tables.
 
+## Dashboard
+For interactive dashboard Click [here](https://1drv.ms/x/c/ab731c7d9645963a/Ea6bZWcX-XdAujgY6CICfoMBimGgpRuWw1zIBsE9-W2yeg?e=2frDAh)
+
 ## Key Findings and Insights
 ### Overall Sales Performance
 - Total Revenue: $307.09 million
