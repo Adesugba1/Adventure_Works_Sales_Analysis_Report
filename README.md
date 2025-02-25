@@ -87,6 +87,8 @@ For interactive dashboard Click [here](https://1drv.ms/x/c/ab731c7d9645963a/Ea6b
 
 ## Key Findings and Insights
 ### Overall Sales Performance
+![kpi](https://github.com/user-attachments/assets/2ceb8353-a1a1-4eb2-8537-3525f8d45fa8)
+
 - Total Revenue: $307.09 million
 - Total Profit: $126.29 million
 - Total COGS: $180.80 million
