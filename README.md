@@ -24,7 +24,7 @@ DimDate (19 Columns, 2,191 rows),
 DimSalesTerritory (6 Columns, 12 Rows), 
 DimProduct (36 Columns, 606 Rows), 
 DimGeography (11 Columns, 655 rows). 
-[Download Dataset Here](https:www.x.com)
+[Download Dataset Here](https://docs.google.com/spreadsheets/d/1KCTPh7Ka1HHy0kcdIjLmyIV3JxSc-0Vmzzh24NKKvDA/edit?usp=drive_link)
 
 ## Tools Used
 - Power Query - Data Cleaning
@@ -50,6 +50,7 @@ DimGeography (11 Columns, 655 rows).
 •	All tables were loaded into Excel as Connections and Model from Power Query, enabling efficient data integration.
 
 ## Data Modeling
+![model](https://github.com/user-attachments/assets/5c0d8d14-2236-43dd-8949-68c89ba2cc3e)
 - Power Pivot in Excel was used for modeling.
 - One-to-Many Relationships were created in the "Diagram View", linking tables using the following primary keys: 
   - FactSales → DimCustomers (CustomerKey)
@@ -81,6 +82,8 @@ EDA includes exploring the dataset to answer business questions such as:
 
 ## Dashboard
 For interactive dashboard Click [here](https://1drv.ms/x/c/ab731c7d9645963a/Ea6bZWcX-XdAujgY6CICfoMBimGgpRuWw1zIBsE9-W2yeg?e=2frDAh)
+![dashboard 1](https://github.com/user-attachments/assets/f8bb52af-0a01-43cb-9e1c-feed1d889357)
+![dashboard 2](https://github.com/user-attachments/assets/02af500c-8468-4744-bf35-80f822151de8)
 
 ## Key Findings and Insights
 ### Overall Sales Performance
