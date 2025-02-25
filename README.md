@@ -7,9 +7,9 @@
 - [Data Preparation and Cleaning](#data-preparation-and-cleaing)
 - [Data Modeling](#data-modeling)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [DAX Calculations and Measures](dax-calculations-and-measures)
-- [Key Findings and Insights](key-findings-and-insights)
-- [Strategic Recommendations](strategic-recommendations)
+- [DAX Calculations and Measures](#dax-calculations-and-measures)
+- [Key Findings and Insights](#key-findings-and-insights)
+- [Strategic Recommendations](#strategic-recommendations)
 - [Conclusion](#concluson)
 
 ## Overview
