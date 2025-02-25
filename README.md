@@ -18,13 +18,13 @@ This report presents a comprehensive analysis of Adventure Works' sales performa
 
 ## Data Source
 The primary datadet use for this analysis contains six different tables; 
-FactInternetSales (26 Columns, 60,398 Rows), 
-DimCustomers (29 Columns, 18,484 rows), 
-DimDate (19 Columns, 2,191 rows), 
-DimSalesTerritory (6 Columns, 12 Rows), 
-DimProduct (36 Columns, 606 Rows), 
-DimGeography (11 Columns, 655 rows). 
-[Download Dataset Here](https://docs.google.com/spreadsheets/d/1KCTPh7Ka1HHy0kcdIjLmyIV3JxSc-0Vmzzh24NKKvDA/edit?usp=drive_link)
+- FactInternetSales (26 Columns, 60,398 Rows),
+- DimCustomers (29 Columns, 18,484 rows),
+- DimDate (19 Columns, 2,191 rows),
+- DimSalesTerritory (6 Columns, 12 Rows),
+- DimProduct (36 Columns, 606 Rows),
+- DimGeography (11 Columns, 655 rows).
+- [Download Dataset Here](https://docs.google.com/spreadsheets/d/1KCTPh7Ka1HHy0kcdIjLmyIV3JxSc-0Vmzzh24NKKvDA/edit?usp=drive_link)
 
 ## Tools Used
 - Power Query - Data Cleaning
